@@ -31,12 +31,7 @@ This repository contains my automation testing practice projects and sample scri
 * OOP Concepts
 * File Handling
 * Exception Handling
-
-### API Testing
-
-* GET, POST, PUT, DELETE requests
-* JSON parsing
-* Response validation
+  
 
 ## Purpose
 
