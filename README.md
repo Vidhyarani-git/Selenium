@@ -7,12 +7,13 @@ This repository contains my automation testing practice projects and sample scri
 ## Technologies Used
 
 * Python
+* PyCharm
 * Selenium WebDriver
 * Pytest
-* Requests (API Testing)
-* Git & GitHub
 
 ## Repository Structure
+
+PartA-->PartB-->PartC holding the below mentioned topics
 
 ### Selenium Practice
 
