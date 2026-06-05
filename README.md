@@ -23,15 +23,6 @@ PartA-->PartB-->PartC holding the below mentioned topics
 * Frames and Windows
 * Waits
 * Data-driven testing
-
-### Python Practice
-
-* Variables and Data Types
-* Loops and Conditions
-* Functions
-* OOP Concepts
-* File Handling
-* Exception Handling
   
 
 ## Purpose
