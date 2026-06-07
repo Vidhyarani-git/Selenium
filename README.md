@@ -1,10 +1,11 @@
 # Selenium
 Selenium Python Automation
+
 # Automation Practice Repository
 
 This repository contains my automation testing practice projects and sample scripts developed while learning test automation.
 
-## Technologies Used
+## Tools and Technologies Used
 
 * Python
 * PyCharm
